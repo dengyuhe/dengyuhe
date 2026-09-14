@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi there 👋, I'm Maggie
+
+I'm an MIT Master of Finance student interested in quantitative research, financial markets, and applied statistical modeling.
+
+My background is in applied mathematics and quantitative economics, with experience in causal inference, time-series analysis, simulation, and financial research.
+
+## Selected Projects
+
+- Statistical Arbitrage Research
+- Pandemic Unemployment Insurance — Difference-in-Differences
+- Schelling Segregation Agent-Based Model
+
+## Technical Skills
+
+Python · R · SQL · MATLAB · Stata · LaTeX
 
 <!--
 **dengyuhe/dengyuhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
