@@ -6,7 +6,6 @@ My background is in applied mathematics and quantitative economics, with experie
 
 ## Selected Projects
 
-- Statistical Arbitrage Research
 - Pandemic Unemployment Insurance — Difference-in-Differences
 - Schelling Segregation Agent-Based Model
 
