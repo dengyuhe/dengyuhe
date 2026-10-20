@@ -11,7 +11,7 @@ My background is in applied mathematics and quantitative economics, with experie
 
 ## Technical Skills
 
-Python · R · SQL · MATLAB · Stata · LaTeX
+Python · R · MATLAB · Stata · LaTeX · AI Agents (haha)
 
 <!--
 **dengyuhe/dengyuhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
