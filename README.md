@@ -2,7 +2,7 @@
 
 I'm an MIT Master of Finance student interested in quantitative research, financial markets, and applied statistical modeling.
 
-My background is in applied mathematics and quantitative economics, with experience in causal inference, time-series analysis, simulation, and financial research.
+My background is in applied mathematics and quantitative economics, with experience in causal inference, time-series analysis, simulation, and economic research.
 
 ## Selected Projects
 
