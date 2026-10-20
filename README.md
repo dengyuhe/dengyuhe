@@ -6,7 +6,8 @@ My background is in applied mathematics and quantitative economics, with experie
 
 ## Selected Projects
 
-- Pandemic Unemployment Insurance — Difference-in-Differences
+- Pandemic Unemployment Insurance — Event Study
+- Industrial Silicon Industry Research (Chinese Market)
 - Schelling Segregation Agent-Based Model
 
 ## Technical Skills
